@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8e5b5346-f241-47b8-afbb-c7dde0293256" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="209" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1i2BT5l46rXlrzbHXCgKxRcwG2e" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="C:/mysql-connector-java-8.0.21.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="Cient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cient" />
+      <module name="Assignment_3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Client" />
+      <module name="Assignment_3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Server" />
+      <module name="Assignment_3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Cient" />
+      <item itemvalue="Application.Client" />
+      <item itemvalue="Application.Server" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Server" />
+        <item itemvalue="Application.Cient" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e5b5346-f241-47b8-afbb-c7dde0293256" name="Default Changelist" comment="" />
+      <created>1601095810211</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601095810211</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Project_Structure" timestamp="1601095829396">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1601095829396" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601281416884">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1601281416884" />
+    <state x="473" y="154" key="FileChooserDialogImpl" timestamp="1602298916627">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="473" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602298916627" />
+    <state width="1493" height="343" key="GridCell.Tab.0.bottom" timestamp="1602299801477">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="343" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602299801477" />
+    <state width="1493" height="343" key="GridCell.Tab.0.center" timestamp="1602299801477">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="343" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602299801477" />
+    <state width="1493" height="343" key="GridCell.Tab.0.left" timestamp="1602299801477">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="343" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602299801477" />
+    <state width="1493" height="343" key="GridCell.Tab.0.right" timestamp="1602299801477">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="343" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602299801477" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1602298924007">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1602298924007" />
+    <state x="682" y="448" key="com.intellij.ide.util.TipDialog" timestamp="1603276156939">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="682" y="448" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1603276156939" />
+    <state x="498" y="306" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1601107594512">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="306" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1601107594512" />
+    <state x="420" y="52" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1601467720972">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="420" y="52" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1601467720972" />
+    <state x="421" y="338" width="1129" height="572" key="dock-window-1" timestamp="1601187460935">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="421" y="338" width="1129" height="572" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1601187460935" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1601360654861">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1601360654861" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1601182336514">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1601182336514" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Assignment_3$Server.ic" NAME="Server Coverage Results" MODIFIED="1601272982847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

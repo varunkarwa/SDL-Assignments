@@ -1,0 +1,68 @@
+mysql> desc users;
++------------+--------------+------+-----+---------+----------------+
+| Field      | Type         | Null | Key | Default | Extra          |
++------------+--------------+------+-----+---------+----------------+
+| user_id    | int unsigned | NO   | PRI | NULL    | auto_increment |
+| username   | varchar(20)  | YES  | UNI | NULL    |                |
+| password   | varchar(20)  | YES  |     | NULL    |                |
+| name       | varchar(20)  | YES  |     | NULL    |                |
+| contact_no | int          | YES  |     | NULL    |                |
+| user_type  | varchar(2)   | YES  |     | NULL    |                |
++------------+--------------+------+-----+---------+----------------+
+6 rows in set (0.03 sec)
+
+mysql> desc cities;
++-----------+-------------+------+-----+---------+----------------+
+| Field     | Type        | Null | Key | Default | Extra          |
++-----------+-------------+------+-----+---------+----------------+
+| city_id   | int         | NO   | PRI | NULL    | auto_increment |
+| city_name | varchar(20) | YES  | UNI | NULL    |                |
++-----------+-------------+------+-----+---------+----------------+
+2 rows in set (0.00 sec)
+
+mysql> desc buses;
++-------------+------+------+-----+---------+----------------+
+| Field       | Type | Null | Key | Default | Extra          |
++-------------+------+------+-----+---------+----------------+
+| bus_id      | int  | NO   | PRI | NULL    | auto_increment |
+| seat_booked | int  | YES  |     | NULL    |                |
+| city_id     | int  | YES  | MUL | NULL    |                |
++-------------+------+------+-----+---------+----------------+
+3 rows in set (0.00 sec)
+
+mysql> desc booking;
++------------------+--------------+------+-----+---------+-------+
+| Field            | Type         | Null | Key | Default | Extra |
++------------------+--------------+------+-----+---------+-------+
+| user_id          | int unsigned | YES  | MUL | NULL    |       |
+| booking_id       | int          | NO   | PRI | NULL    |       |
+| city_id          | int          | YES  | MUL | NULL    |       |
+| bus_id           | int          | YES  | MUL | NULL    |       |
+| no_of_passengers | int          | YES  |     | NULL    |       |
++------------------+--------------+------+-----+---------+-------+
+5 rows in set (0.00 sec)
+
+mysql> desc passengers;
++----------------+-------------+------+-----+---------+-------+
+| Field          | Type        | Null | Key | Default | Extra |
++----------------+-------------+------+-----+---------+-------+
+| passenger_id   | int         | YES  |     | NULL    |       |
+| booking_id     | int         | YES  | MUL | NULL    |       |
+| bus_id         | int         | YES  | MUL | NULL    |       |
+| passenger_name | varchar(20) | YES  |     | NULL    |       |
+| seat_no        | int         | YES  |     | NULL    |       |
++----------------+-------------+------+-----+---------+-------+
+5 rows in set (0.00 sec)
+
+mysql> show tables
+    -> ;
++----------------------------+
+| Tables_in_sdl_assignment_3 |
++----------------------------+
+| booking                    |
+| buses                      |
+| cities                     |
+| passengers                 |
+| users                      |
++----------------------------+
+5 rows in set (0.01 sec)
